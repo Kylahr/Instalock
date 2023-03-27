@@ -60,7 +60,7 @@ def launch(ui, champ, role):
     champ_url = "http://ddragon.leagueoflegends.com/cdn/%s/data/en_US/champion.json" % api_version
 
     # Open the file in read mode ('r')
-    with open('C:\\Users\\hc\\Desktop\\app\\meineapp\\version.txt', 'r') as file:
+    with open('version.txt', 'r') as file:
         # Read the entire contents of the file into a string
         version = file.read()
         print(version)
