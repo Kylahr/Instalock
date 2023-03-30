@@ -16,3 +16,6 @@ How to use:
    toggle infinity to keep the script running you wont have to press start again
    toggle LOCK switch if you want to instalock the champion
    the exe will autoaccept for you and choose the champ you want and role call
+
+
+[Download](https://github.com/Kylahr/Instalock/archive/refs/heads/main.zip)
