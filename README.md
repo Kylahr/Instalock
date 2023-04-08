@@ -16,7 +16,7 @@ How to use:
        
    the exe will autoaccept for you and choose the champ you want and role call.    
    
-   toggle infinity to keep the script running you wont have to press start again.(a bit buggy)
+   toggle infinity to keep the script running you wont have to press start again.
    
    
    toggle LOCK switch if you want to instalock the champion.
